@@ -1,3 +1,4 @@
 {
-  "origins": ["https://aarongoldenthal.com/", "https://aarongoldenthal.dev/"]
+  "origins": ["https://aarongoldenthal.com/", "https://aarongoldenthal.dev/"],
+  "originsRegex": ["http://localhost:[0-9]+"]
 }
