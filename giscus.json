@@ -1,8 +1,8 @@
 {
   "origins": [
-    "https://aarongoldenthal.com/",
-    "https://aarongoldenthal.dev/",
-    "https://aarongoldenthal.gitlab.io/"
+    "https://aarongoldenthal.com",
+    "https://aarongoldenthal.dev",
+    "https://aarongoldenthal.gitlab.io"
   ],
   "originsRegex": ["http://localhost:[0-9]+"]
 }
