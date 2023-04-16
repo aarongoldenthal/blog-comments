@@ -4,5 +4,8 @@
     "https://aarongoldenthal.dev",
     "https://aarongoldenthal.gitlab.io"
   ],
-  "originsRegex": ["http://localhost:[0-9]+"]
+  "originsRegex": [
+    "http://localhost:[0-9]{4,5}",
+    "http://127.0.0.1:[0-9]{4,5}"
+  ]
 }
